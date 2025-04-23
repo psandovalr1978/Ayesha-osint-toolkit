@@ -11,8 +11,8 @@ This is my first OSINT toolkit project. It includes several tools for performing
 
 To install the required dependencies, run the following command in your terminal:
 
-```bash
-pip install -r requirements.txt
+
+```pip install -r requirements.txt```
 This will install all the necessary libraries required to run the scripts.
 
 Usage
@@ -24,32 +24,33 @@ Example usage:
 bash
 Copy
 Edit
-python scripts/username_checker.py
-Email Finder:
+```python scripts/username_checker.py```
+#### Email Finder:
 This script helps to find email addresses associated with a specific domain.
 
-Example usage:
+### Example usage:
 
 bash
 Copy
 Edit
-python scripts/email_finder.py
+```python scripts/email_finder.py```
 IP Lookup:
 This script provides detailed information about an IP address, such as location, ISP, and more.
 
-Example usage:
+### Example usage:
 
 bash
 Copy
 Edit
-python scripts/ip_lookup.py
+```python scripts/ip_lookup.py```
 Each of the scripts is designed to perform a specific OSINT task, and you can run them individually based on your needs.
 
 Contribution
 Feel free to fork this project, make changes, and send pull requests. Contributions are welcome!
 
-License
-This project is licensed under the MIT License.
+## License
+
+```This project is licensed under the MIT License.
 
 MIT License Text
 txt
@@ -75,4 +76,4 @@ FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
 AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+SOFTWARE.```
