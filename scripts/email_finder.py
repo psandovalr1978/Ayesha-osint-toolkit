@@ -1,3 +1,4 @@
+# This script searches for email addresses associated with a domain.
 # scripts/email_finder.py
 import re
 

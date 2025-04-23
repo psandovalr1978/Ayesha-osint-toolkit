@@ -1,3 +1,4 @@
+# This script finds details about a given IP address (location, ISP, etc.).
 import requests
 
 def ip_lookup(ip):

@@ -14,6 +14,17 @@ pip install -r requirements.txt
 
 This will install all the necessary libraries required to run the scripts.
 
+### Virtual Environment Setup
+
+It is recommended to create a virtual environment before installing requirements:
+
+```
+python -m venv venv
+source venv/bin/activate    # For Linux/Mac
+venv\Scripts\activate       # For Windows
+pip install -r requirements.txt
+```
+
 ### Usage
 Username Checker
 Use this script to check if a username is available on various platforms.

@@ -1,3 +1,4 @@
+# This script checks whether a username exists on multiple social platforms using APIs.
 # scripts/username_checker.py
 import requests
 
