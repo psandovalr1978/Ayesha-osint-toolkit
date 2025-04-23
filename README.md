@@ -8,8 +8,9 @@ requests library (for API calls)
 
 ### Installation
 To install the required dependencies, run the following command in your terminal:
-
-` pip install -r requirements.txt `
+```
+pip install -r requirements.txt
+```
 
 This will install all the necessary libraries required to run the scripts.
 
@@ -18,21 +19,24 @@ Username Checker
 Use this script to check if a username is available on various platforms.
 
 #### Example usage:
-
-` python scripts/username_checker.py `
+```
+python scripts/username_checker.py
+```
 ### Email Finder
 This script helps to find email addresses associated with a specific domain.
 
 #### Example usage:
-
-` python scripts/email_finder.py `
+```
+python scripts/email_finder.py
+``` 
 
 ### IP Lookup
 This script provides detailed information about an IP address, such as location, ISP, and more.
 
 #### Example usage:
-
-` python scripts/ip_lookup.py `
+```
+python scripts/ip_lookup.py
+``` 
 
 Each of the scripts is designed to perform a specific OSINT task, and you can run them individually based on your needs.
 
@@ -64,5 +68,6 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,  
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE  
 SOFTWARE.
+```
 
 
