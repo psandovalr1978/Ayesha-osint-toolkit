@@ -39,10 +39,10 @@ Each of the scripts is designed to perform a specific OSINT task, and you can ru
 ### Contribution
 Feel free to fork this project, make changes, and send pull requests. Contributions are welcome!
 
-### License
+``` License
 This project is licensed under the MIT License.
 
-``` MIT License
+MIT License
 
 Copyright (c) 2023 SilentProgrammer-max
 
